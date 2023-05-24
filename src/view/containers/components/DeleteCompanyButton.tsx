@@ -1,6 +1,5 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { useIntl } from "react-intl";
-import { FormInstance } from "antd";
 
 import { TYPOGRAPHY } from "../../foudation";
 import {

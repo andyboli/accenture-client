@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useIntl } from "react-intl";
 import styled from "styled-components";
-import { Radio, Tabs, TabsProps } from "antd";
+import { Radio, Tabs } from "antd";
 
 import { SPACE_TYPES } from "../foudation";
 import { FlexStart } from "../components";

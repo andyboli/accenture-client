@@ -2,7 +2,6 @@ import styled from "styled-components";
 import { space, color, SpaceProps, ColorProps } from "styled-system";
 
 import { COLORS_TYPES, TYPOGRAPHY } from "../foudation";
-import FlexComponent from "./FlexComponent";
 
 export type TextComponentProps = {
   lineHeight?: TYPOGRAPHY.LINE_HEIGHTS;
