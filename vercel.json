@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/api/(.*)",
-      "destination": "http://cep.la/$1"
+      "source": "/api/:match*",
+      "destination": "http://cep.la/:match*"
     }
   ]
 }
