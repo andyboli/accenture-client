@@ -1,0 +1,1081 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing ButtonComponent: Should render Button DANGER 1`] = `
+<div
+  role="grid"
+>
+  <button
+    buttontype="DANGER"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB kjEpfz"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="DANGER"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB fISqtX"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="DANGER"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default ant-btn-icon-only sc-beqWaB kYCfrx"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    buttontype="DANGER"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB kRvFhT"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="DANGER"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB cgImug"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="DANGER"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB cgImug loading"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      class="ant-btn-icon"
+    >
+      <span
+        aria-label="loading"
+        class="anticon anticon-loading anticon-spin sc-iAEyYk iEpphg"
+        color="#FFFFFF"
+        role="img"
+        size="16"
+        title="ícone de loading"
+      >
+        <svg
+          aria-hidden="true"
+          data-icon="loading"
+          fill="currentColor"
+          focusable="false"
+          height="1em"
+          viewBox="0 0 1024 1024"
+          width="1em"
+        >
+          <path
+            d="M988 548c-19.9 0-36-16.1-36-36 0-59.4-11.6-117-34.6-171.3a440.45 440.45 0 00-94.3-139.9 437.71 437.71 0 00-139.9-94.3C629 83.6 571.4 72 512 72c-19.9 0-36-16.1-36-36s16.1-36 36-36c69.1 0 136.2 13.5 199.3 40.3C772.3 66 827 103 874 150c47 47 83.9 101.8 109.7 162.7 26.7 63.1 40.2 130.2 40.2 199.3.1 19.9-16 36-35.9 36z"
+          />
+        </svg>
+      </span>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="DANGER"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default ant-btn-icon-only sc-beqWaB dNwbjx"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Testing ButtonComponent: Should render Button DISABLED 1`] = `
+<div
+  role="grid"
+>
+  <button
+    buttontype="DISABLED"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB gcEICp"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="DISABLED"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB raJsh"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="DISABLED"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default ant-btn-icon-only sc-beqWaB cMUDLv"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    buttontype="DISABLED"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB hlsujh"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="DISABLED"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB nzNmK"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="DISABLED"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB nzNmK loading"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      class="ant-btn-icon"
+    >
+      <span
+        aria-label="loading"
+        class="anticon anticon-loading anticon-spin sc-iAEyYk iEpphg"
+        color="#FFFFFF"
+        role="img"
+        size="16"
+        title="ícone de loading"
+      >
+        <svg
+          aria-hidden="true"
+          data-icon="loading"
+          fill="currentColor"
+          focusable="false"
+          height="1em"
+          viewBox="0 0 1024 1024"
+          width="1em"
+        >
+          <path
+            d="M988 548c-19.9 0-36-16.1-36-36 0-59.4-11.6-117-34.6-171.3a440.45 440.45 0 00-94.3-139.9 437.71 437.71 0 00-139.9-94.3C629 83.6 571.4 72 512 72c-19.9 0-36-16.1-36-36s16.1-36 36-36c69.1 0 136.2 13.5 199.3 40.3C772.3 66 827 103 874 150c47 47 83.9 101.8 109.7 162.7 26.7 63.1 40.2 130.2 40.2 199.3.1 19.9-16 36-35.9 36z"
+          />
+        </svg>
+      </span>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="DISABLED"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default ant-btn-icon-only sc-beqWaB fXrgKz"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Testing ButtonComponent: Should render Button LINK 1`] = `
+<div
+  role="grid"
+>
+  <button
+    buttontype="LINK"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB iatbCC"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="LINK"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB hiTVZq"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="LINK"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default ant-btn-icon-only sc-beqWaB fooGlU"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    buttontype="LINK"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB bqdYIq"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="LINK"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB esNlTt"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="LINK"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB esNlTt loading"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      class="ant-btn-icon"
+    >
+      <span
+        aria-label="loading"
+        class="anticon anticon-loading anticon-spin sc-iAEyYk iEpphg"
+        color="#FFFFFF"
+        role="img"
+        size="16"
+        title="ícone de loading"
+      >
+        <svg
+          aria-hidden="true"
+          data-icon="loading"
+          fill="currentColor"
+          focusable="false"
+          height="1em"
+          viewBox="0 0 1024 1024"
+          width="1em"
+        >
+          <path
+            d="M988 548c-19.9 0-36-16.1-36-36 0-59.4-11.6-117-34.6-171.3a440.45 440.45 0 00-94.3-139.9 437.71 437.71 0 00-139.9-94.3C629 83.6 571.4 72 512 72c-19.9 0-36-16.1-36-36s16.1-36 36-36c69.1 0 136.2 13.5 199.3 40.3C772.3 66 827 103 874 150c47 47 83.9 101.8 109.7 162.7 26.7 63.1 40.2 130.2 40.2 199.3.1 19.9-16 36-35.9 36z"
+          />
+        </svg>
+      </span>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="LINK"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default ant-btn-icon-only sc-beqWaB na-dYY"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Testing ButtonComponent: Should render Button PRIMARY 1`] = `
+<div
+  role="grid"
+>
+  <button
+    buttontype="PRIMARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB bvbqvf"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="PRIMARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB kCieln"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="PRIMARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default ant-btn-icon-only sc-beqWaB egQrMx"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    buttontype="PRIMARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB kmJklX"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="PRIMARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB iAEPdM"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="PRIMARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB iAEPdM loading"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      class="ant-btn-icon"
+    >
+      <span
+        aria-label="loading"
+        class="anticon anticon-loading anticon-spin sc-iAEyYk iEpphg"
+        color="#FFFFFF"
+        role="img"
+        size="16"
+        title="ícone de loading"
+      >
+        <svg
+          aria-hidden="true"
+          data-icon="loading"
+          fill="currentColor"
+          focusable="false"
+          height="1em"
+          viewBox="0 0 1024 1024"
+          width="1em"
+        >
+          <path
+            d="M988 548c-19.9 0-36-16.1-36-36 0-59.4-11.6-117-34.6-171.3a440.45 440.45 0 00-94.3-139.9 437.71 437.71 0 00-139.9-94.3C629 83.6 571.4 72 512 72c-19.9 0-36-16.1-36-36s16.1-36 36-36c69.1 0 136.2 13.5 199.3 40.3C772.3 66 827 103 874 150c47 47 83.9 101.8 109.7 162.7 26.7 63.1 40.2 130.2 40.2 199.3.1 19.9-16 36-35.9 36z"
+          />
+        </svg>
+      </span>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="PRIMARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default ant-btn-icon-only sc-beqWaB shTZt"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Testing ButtonComponent: Should render Button SECONDARY 1`] = `
+<div
+  role="grid"
+>
+  <button
+    buttontype="SECONDARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB iONbdl"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="SECONDARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB eESKdB"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="SECONDARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default ant-btn-icon-only sc-beqWaB enHXYP"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    buttontype="SECONDARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB DRwph"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="SECONDARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB LQqLO"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="SECONDARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB LQqLO loading"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      class="ant-btn-icon"
+    >
+      <span
+        aria-label="loading"
+        class="anticon anticon-loading anticon-spin sc-iAEyYk iEpphg"
+        color="#FFFFFF"
+        role="img"
+        size="16"
+        title="ícone de loading"
+      >
+        <svg
+          aria-hidden="true"
+          data-icon="loading"
+          fill="currentColor"
+          focusable="false"
+          height="1em"
+          viewBox="0 0 1024 1024"
+          width="1em"
+        >
+          <path
+            d="M988 548c-19.9 0-36-16.1-36-36 0-59.4-11.6-117-34.6-171.3a440.45 440.45 0 00-94.3-139.9 437.71 437.71 0 00-139.9-94.3C629 83.6 571.4 72 512 72c-19.9 0-36-16.1-36-36s16.1-36 36-36c69.1 0 136.2 13.5 199.3 40.3C772.3 66 827 103 874 150c47 47 83.9 101.8 109.7 162.7 26.7 63.1 40.2 130.2 40.2 199.3.1 19.9-16 36-35.9 36z"
+          />
+        </svg>
+      </span>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="SECONDARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default ant-btn-icon-only sc-beqWaB ieEFrD"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Testing ButtonComponent: Should render Button TERTIARY 1`] = `
+<div
+  role="grid"
+>
+  <button
+    buttontype="TERTIARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB bqhnkD"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="TERTIARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB lniUFj"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="TERTIARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default ant-btn-icon-only sc-beqWaB gpMXqt"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    buttontype="TERTIARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB ivbUFf"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="TERTIARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB hjMdNs"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="TERTIARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default sc-beqWaB hjMdNs loading"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      class="ant-btn-icon"
+    >
+      <span
+        aria-label="loading"
+        class="anticon anticon-loading anticon-spin sc-iAEyYk iEpphg"
+        color="#FFFFFF"
+        role="img"
+        size="16"
+        title="ícone de loading"
+      >
+        <svg
+          aria-hidden="true"
+          data-icon="loading"
+          fill="currentColor"
+          focusable="false"
+          height="1em"
+          viewBox="0 0 1024 1024"
+          width="1em"
+        >
+          <path
+            d="M988 548c-19.9 0-36-16.1-36-36 0-59.4-11.6-117-34.6-171.3a440.45 440.45 0 00-94.3-139.9 437.71 437.71 0 00-139.9-94.3C629 83.6 571.4 72 512 72c-19.9 0-36-16.1-36-36s16.1-36 36-36c69.1 0 136.2 13.5 199.3 40.3C772.3 66 827 103 874 150c47 47 83.9 101.8 109.7 162.7 26.7 63.1 40.2 130.2 40.2 199.3.1 19.9-16 36-35.9 36z"
+          />
+        </svg>
+      </span>
+    </span>
+    <span>
+      Button
+    </span>
+  </button>
+  <button
+    buttontype="TERTIARY"
+    class="ant-btn css-dev-only-do-not-override-htwhyh ant-btn-default ant-btn-icon-only sc-beqWaB dVgPIl"
+    role="button"
+    theme="[object Object]"
+    type="button"
+  >
+    <span
+      aria-label="mail"
+      class="anticon anticon-mail"
+      role="img"
+    >
+      <svg
+        aria-hidden="true"
+        data-icon="mail"
+        fill="currentColor"
+        focusable="false"
+        height="1em"
+        viewBox="64 64 896 896"
+        width="1em"
+      >
+        <path
+          d="M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-80.8 108.9L531.7 514.4c-7.8 6.1-18.7 6.1-26.5 0L189.6 268.9A7.2 7.2 0 01194 256h648.8a7.2 7.2 0 014.4 12.9z"
+        />
+      </svg>
+    </span>
+  </button>
+</div>
+`;
