@@ -119,6 +119,7 @@ const CepFormItem: React.FC<{ cep?: string }> = ({ cep }) => {
   return (
     <Form.Item
       name="cep"
+      validateFirst
       label={
         <TextComponent transform={TYPOGRAPHY.TEXT_TRANSFORMS.UPPERCASE}>
           {intl.formatMessage({
