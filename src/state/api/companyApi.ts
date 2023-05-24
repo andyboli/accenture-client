@@ -10,7 +10,7 @@ import {
 
 const CACHE_TIMEOUT_IN_SECONDS = 1.8e3;
 const KEEP_CACHE_WITHOUT_SUBSCRIPTIONS_TIMEOUT_IN_SECONDS = 1.8e3;
-const COMPANY_ENDPOINT = "/company";
+/* const COMPANY_ENDPOINT = "/company"; */
 
 const getCompanies = async (
   api: BaseQueryApi
