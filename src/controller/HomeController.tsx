@@ -28,7 +28,7 @@ const getRandomCompanyFromBeloHorizonte = async () => {
     return mockCompany({ cep });
     // Map Applications Erros
   } catch (err) {
-    console.error(err);
+    console.log(err);
     return mockCompany();
   }
 };
@@ -43,7 +43,6 @@ const validateCep = async (cep: string) => {
     return isCepValid;
     // Map Applications Erros
   } catch (err) {
-    console.error(err);
     return false;
   }
 };
