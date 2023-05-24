@@ -1,8 +1,8 @@
 {
-  "routes": [
+  "rewrites": [
     {
-      "src": "/api/(?<cep>[^/]*)",
-      "dest": "http://cep.la/$cep"
+      "source": "/api/(.*)",
+      "destination": "http://cep.la/$1"
     }
   ]
 }

@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const getCEP = async (cep: string): Promise<{ data: { cep: string }[] }> =>
-  axios.get(`/api/?cep=${cep}`, {
+  axios.get(`/api/${cep}`, {
     headers: {
       Accept: "application/json",
     },
