@@ -22,18 +22,30 @@ const filterSupplierOption =
   };
 
 const getRandomCompanyFromBeloHorizonte = async () => {
-  const { data } = await AxiosService.getCEP("/MG/BeloHorizonte");
-  const cep = data[Math.floor(Math.random() * data.length)].cep;
-  return mockCompany({ cep });
+  try {
+    const { data } = await AxiosService.getCEP("/MG/BeloHorizonte");
+    const cep = data[Math.floor(Math.random() * data.length)].cep;
+    return mockCompany({ cep });
+    // Map Applications Erros
+  } catch (err) {
+    console.error(err);
+    return mockCompany();
+  }
 };
 
 /**
  * The accenture-client system must validate the cep attribute using the api.
  */
 const validateCep = async (cep: string) => {
-  const { data } = await AxiosService.getCEP(cep);
-  const isCepValid = !!data && data.length !== 0;
-  return isCepValid;
+  try {
+    const { data } = await AxiosService.getCEP(cep);
+    const isCepValid = !!data && data.length !== 0;
+    return isCepValid;
+    // Map Applications Erros
+  } catch (err) {
+    console.error(err);
+    return false;
+  }
 };
 
 const HomeController = {
